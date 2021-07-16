@@ -78,6 +78,7 @@ Portfolio ID
         name_ru: Str,
         name_uz: Str,
         name_en: Str,
+        name_image: Str,
     }
 }
 ```
